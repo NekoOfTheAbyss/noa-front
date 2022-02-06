@@ -35,9 +35,9 @@
                  alt="Kuroneko-sama's Widget Failed to Load" /></a>
         </div>
         <div class="p-4 mx-auto">
-          <a href="http://discord.boats/bot/679741957047582725"
+          <a href="https://discord.boats/bot/679741957047582725"
              target="_blank">
-            <img src="http://discord.boats/api/widget/679741957047582725/"
+            <img src="https://discord.boats/api/widget/679741957047582725/"
                  title="Visit Kuroneko listed on Discord Boats!"
                  alt="Kuroneko-sama's Widget Failed to Load" /></a>
         </div>
