@@ -33,7 +33,7 @@
 <img src = "/moogi.gif" class = "w-48 object-cover"></center>
 </div>
 
-<div class = "text-white font-semibold text-center animate-pulse text-opacity-0 hover:text-opacity-100">
+<div class = "text-white text-opacity-100 transition duration-500 ease-in-out font-semibold text-center animate-pulse md:text-opacity-0 hover:text-opacity-100">
 Nyevew gonnya give you up <br />
 Nyevew gonnya wet you down <br />
 Nyevew gonnya wun awound and desewt you <br />
