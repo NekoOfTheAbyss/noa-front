@@ -1,4 +1,4 @@
-import Constants from "./data/Constants"
+import Constants from './data/Constants'
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
@@ -41,6 +41,10 @@ export default {
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
+
+  generate: {
+    fallback: true,
+  },
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
