@@ -6,11 +6,11 @@
 
       <div class="container mx-auto grid-cols-1 md:grid-cols-2 grid">
         <div class="mx-auto w-full max-w-md p-4">
-          <NuxtLink to="/discord/queenofchaos/invite"
+          <NuxtLink to="/software/queenofchaos/invite"
                     class="block text-center mx-auto w-full max-w-full font-bold text-white px-4 py-3 transition duration-300 ease-in-out bg-zinc-800 bg-opacity-80 hover:bg-zinc-700 text-white">Add Kuroneko To Your Server</NuxtLink>
         </div>
         <div class="mx-auto w-full max-w-md p-4">
-          <NuxtLink to="/discord/server"
+          <NuxtLink to="/software/server"
                     class="block text-center mx-auto w-full max-w-full font-bold text-white px-4 py-3 transition duration-300 ease-in-out bg-zinc-800 bg-opacity-80 hover:bg-zinc-700 text-white">Join Kuroneko's Server!</NuxtLink>
         </div>
       </div>

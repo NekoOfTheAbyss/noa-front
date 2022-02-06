@@ -52,7 +52,7 @@
           </div>
           <div class="mx-auto w-full max-w-md p-4">
             <NuxtLink
-              to="/discord/lala/invite"
+              to="/software/lala/invite"
               class="
                 block
                 text-center

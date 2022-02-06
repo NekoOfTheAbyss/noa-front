@@ -180,7 +180,7 @@ export default {
                 "
               >
                 <div
-                  v-for="{ name, route, key, icon } in Navigation"
+                  v-for="{ name, route, key } in Navigation"
                   :key="key"
                 >
                   <NuxtLink
@@ -191,10 +191,9 @@ export default {
                         ? 'text-zinc-700 dark:text-white '
                         : 'text-black dark:text-white border-transparent ') +
                       (Array.isArray(route) ? 'group ' : '') +
-                      'transition duration-500 ease-in-out tracking-wide px-3 flex flex-row space-x-4 md:uppercase py-4 text-xs md:text-md hover:dark:text-nett-maid hover:text-zinc-800 block'
+                      'transition duration-500 ease-in-out tracking-wide px-3 flex flex-row space-x-4 md:uppercase py-4 text-xs md:text-md font-semibold hover:dark:text-nett-maid hover:text-zinc-800 block'
                     "
                   >
-                    <span><SVGWrapper :name="icon" /></span>
                     <span class="py-1">{{ name }}</span>
                     <div
                       v-if="Array.isArray(route)"
@@ -238,10 +237,9 @@ export default {
                         ? 'text-zinc-700 dark:text-white '
                         : 'dark:text-white text-black ') +
                       (Array.isArray(route) ? 'group ' : '') +
-                      'transition duration-500 ease-in-out tracking-wide px-3 flex flex-row space-x-4 md:uppercase py-4 text-xs md:text-md hover:dark:text-nett-maid hover:text-zinc-800 block'
+                      'transition duration-500 ease-in-out tracking-wide px-3 flex flex-row space-x-4 md:uppercase py-4 text-xs md:text-md font-semibold hover:dark:text-nett-maid hover:text-zinc-800 block'
                     "
                   >
-                    <span><SVGWrapper :name="icon" /></span>
                     <span class="py-1">{{ name }}</span>
                     <span><SVGDown /></span>
 
@@ -287,10 +285,9 @@ export default {
                         ? 'text-zinc-700 dark:text-white '
                         : 'dark:text-white text-black ') +
                       (Array.isArray(route) ? 'group ' : '') +
-                      'transition duration-500 ease-in-out tracking-wide px-3 flex flex-row space-x-4 md:uppercase py-4 text-xs md:text-md hover:dark:text-nett-maid hover:text-zinc-800 block'
+                      'transition duration-500 ease-in-out tracking-wide px-3 flex flex-row space-x-4 md:uppercase py-4 text-xs md:text-md font-semibold hover:dark:text-nett-maid hover:text-zinc-800 block'
                     "
                   >
-                    <span><SVGWrapper :name="icon" /></span>
                     <span class="py-1">{{ name }}</span>
                     <div
                       v-if="Array.isArray(route)"

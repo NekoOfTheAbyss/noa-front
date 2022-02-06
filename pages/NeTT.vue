@@ -64,7 +64,7 @@ export default {
         <MainHomeItem
           title="Queen Of Chaos"
           description="The sole ruler of the abyss with 100+ commands! A PvP-based Discord bot with fun commands and anime/meme abilities!"
-          link="/discord/queenofchaos"
+          link="/software/queenofchaos"
           image="/avatar/kuro.webp"
           contribution="Sole Developer, Owner"
         />

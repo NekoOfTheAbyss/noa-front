@@ -3,7 +3,7 @@
           <div
             class=" p-8 block ml-0 w-full transform tracking-wide transition duration-500 ease-in-out hover:-translate-y-1 hover:shadow-md"
           >
-            <div class="flex flex-row justify-start items-center w-full p-4">
+            <div class="flex flex-col md:flex-row justify-start items-center w-full p-4">
               <div class="px-4 shrink-0">
                 <img
                   :src="image"
@@ -12,7 +12,7 @@
                 />
               </div>
               <div class="card-container">
-                <div class=" mx-auto">
+                <div class="text-center md:text-left mx-auto">
                   <a
                     :href="link"
                     class="font-bold tracking-wider text-white text-lg uppercase py-4 mx-auto"
@@ -23,7 +23,7 @@
                   {{description}}
                 </p>
                 <p
-                  class="uppercase tracking-wide text-sm text-nett-maid font-semibold py-2 mx-auto"
+                  class="uppercase tracking-wide text-sm text-nett-maid font-semibold py-2 mx-auto text-center md:text-left"
                 >
                   {{contribution}}
                 </p>

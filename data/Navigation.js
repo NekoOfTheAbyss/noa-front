@@ -5,9 +5,9 @@ export default [
         routeName: 'home'
     },
     {
-        name: "Discord",
-        route: '/discord',
-        routeName: 'discord'
+        name: "Software",
+        route: '/software',
+        routeName: 'software'
     },
     {
         name: "API",
@@ -15,18 +15,8 @@ export default [
         routeName: 'kuro-api'
     },
     {
-        name: "Partners",
-        route: '/partners',
-        routeName: 'partners'
-    },
-    {
-        name: "Backgrounds",
-        route: '/backgrounds',
-        routeName: 'backgrounds'
-    },
-    {
-        name: "Abilities",
-        route: '/ability',
-        routeName: 'ability'
+        name: "NeTT",
+        route: '/NeTT',
+        routeName: 'NeTT'
     },
 ]

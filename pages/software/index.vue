@@ -28,7 +28,7 @@
             animate-pulse
           "
         >
-          This is a home page. There are four routes from here. Which shalt
+          You see diverging paths. There are three routes from here. Which shalt
           thou choose?
         </p>
         <br />
@@ -38,16 +38,22 @@
     <div class="p-8 pt-3 text-white rounded-b-md">
       <div class="flex flex-col items-center space-y-4 md:items-start">
         <MainHomeCard
-          title="NeTT"
-          description="Braindead developer and creator of the Neko of the Abyss."
-          link="/NeTT"
-          image="/NeTT/woke.webp"
+          title="Queen Of Chaos"
+          description="The sole ruler of the abyss with 100+ commands! A PvP-based Discord bot with fun commands and anime/meme abilities!"
+          link="/software/queenofchaos"
+          image="/popface.webp"
         />
         <MainHomeCard
-          title="Software"
-          description="Software related stuff I made!"
-          link="/software/"
-          image="/popface.webp"
+          title="Lala"
+          description="A collection of random, mostly useless functions compiled into a single module and a Discord bot."
+          link="/software/la-lala"
+          image="/lala.png"
+        />
+        <MainHomeCard
+          title="Kuro's Abyss"
+          description="Official Discord community for Neko Of The Abyss"
+          link="/discord/server"
+          image="/icon.png"
         />
       </div>
     </div>
@@ -59,7 +65,7 @@ export default {
   auth: false,
   head() {
     return {
-      title: 'Home',
+      title: 'Discord',
     }
   },
 }
