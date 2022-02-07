@@ -5,7 +5,7 @@
       </div>
   </div>
 </template>
-
+ 
 <script>
 export default {
   data() {
@@ -20,13 +20,11 @@ export default {
           this.xco = e.pageX
           this.yco = e.pageY
           if(Math.random() < 0.5) this.currentDaro = this.currentDaro === 3 ? 1 : this.currentDaro + 1
-          console.log({x: this.xco, y: this.yco})
       },
       movedarotouch(e) {
           this.xco = e.touches[0].pageX
           this.yco = e.touches[0].pageY
           if(Math.random() < 0.5) this.currentDaro = this.currentDaro === 3 ? 1 : this.currentDaro + 1
-          console.log({x: this.xco, y: this.yco})
       }
   }
 }

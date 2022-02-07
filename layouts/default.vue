@@ -13,7 +13,6 @@ export default {
   methods: {
     easterEggOn(e) {
       this.easterEgg = true
-      console.log(this.easterEgg)
     },
     eggExists() {
       return this.easterEgg

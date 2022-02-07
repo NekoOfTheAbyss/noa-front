@@ -56,7 +56,7 @@ export default {
     thisClicked(e) {
       console.log(e)
       this.clicked = true
-      console.log("CLICK")
+      console.log("YOU CLICKED THE DAMN THING!")
       this.$emit('easterEggClicked', true)
     }
   }
