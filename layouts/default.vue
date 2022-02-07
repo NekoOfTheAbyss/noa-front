@@ -22,7 +22,7 @@ export default {
 </script>
 
 <template>
-  <div class="min h-screen">
+  <div class="min h-screen dark">
     <div v-if="easterEgg">
       <MiscEasterEgg />
     </div>

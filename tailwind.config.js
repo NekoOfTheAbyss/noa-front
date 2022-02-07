@@ -8,7 +8,7 @@ module.exports = {
     `./nuxt.config.js`,
     `./nuxt.config.ts`,
   ],
-  darkMode: 'media', // or 'media' or 'class'
+  darkMode: 'class', // or 'media' or 'class'
   theme: {
     zIndex: {
       0: 0,
