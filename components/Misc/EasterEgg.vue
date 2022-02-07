@@ -1,5 +1,5 @@
 <template>
-  <div class="p-4 h-screen relative bg-white/40" @mousemove="movedaro">
+  <div class="p-4 h-screen relative bg-white/40" @touchmove="movedaro" @mousemove="movedaro">
       <div class = "p-4">
           <img class = "w-12 h-12 absolute" :src = "`/daro/${currentDaro}.png`" :style = "{'top': yco - 40 + 'px', 'left': xco + 'px'}" />
       </div>
