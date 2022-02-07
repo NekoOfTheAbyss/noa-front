@@ -134,7 +134,7 @@ export default {
             </NuxtLink>
           </div>
           <div
-            :class="`z-40 block h-full top-0 left-0 bg-white dark:bg-zinc-900 md:bg-transparent fixed md:static transform transition duration-500 ease-in-out md:translate-x-0 p-8 md:p-0 md:block ${
+            :class="`z-40 block h-full top-0 left-0 bg-transparent fixed md:static transform transition duration-500 ease-in-out md:translate-x-0 p-8 md:p-0 md:block ${
               toggleNav ? 'translate-x-0' : '-translate-x-110 md:ml-6'
             }`"
           >
