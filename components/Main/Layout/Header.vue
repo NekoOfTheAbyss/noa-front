@@ -52,9 +52,8 @@ export default {
 <template>
   <div
     class="
-      dark:bg-zinc-900 border-nett-maid border-b
+    md:bg-black/10 md:hover:bg-black/60 transition duration-500 ease-in-out
       bg-black
-      md:bg-white md:dark:bg-zinc-900 border-nett-maid border-b
       shadow-md
       max-w-full
       block

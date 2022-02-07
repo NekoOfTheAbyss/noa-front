@@ -92,6 +92,11 @@ module.exports = {
           kuro: '#944dff',
           maid: '#ff00c3',
         },
+        kuro: {
+          bg: '#080006',
+          dark: '#1a0013',
+          lessdark: '#24001a',
+        },
       },
       translate: {
         110: '30rem',

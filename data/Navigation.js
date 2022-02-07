@@ -1,22 +1,12 @@
 export default [
     {
-        name: "Home",
+        name: "Go Home",
         route: '/',
         routeName: 'home'
     },
     {
-        name: "Software",
-        route: '/software',
-        routeName: 'software'
-    },
-    {
-        name: "API",
+        name: "Random Gif API",
         route: '/kuro-api',
         routeName: 'kuro-api'
-    },
-    {
-        name: "NeTT",
-        route: '/NeTT',
-        routeName: 'NeTT'
     },
 ]
