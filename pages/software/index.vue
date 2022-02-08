@@ -15,7 +15,7 @@
             leading-9
           "
         >
-          Gaze for a while and even the abyss gets with you...
+          Gaze for a while and even the abyss loses interest...
         </p>
         <p
           class="
