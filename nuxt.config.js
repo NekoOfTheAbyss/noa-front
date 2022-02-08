@@ -6,8 +6,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Kuroneko',
-    titleTemplate: '%s - Neko of the Abyss',
+    title: 'The Abyss',
+    titleTemplate: '%s - Neko Of The Abyss',
     htmlAttrs: {
       lang: 'en',
     },
@@ -18,15 +18,15 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'The sole ruler of the abyss with 100+ commands! A PvP-based Discord bot with fun commands and anime/meme abilities!',
+          Constants.description,
       },
-      { hid: 'theme-color', name: 'theme-color', content: '#ff00c3' },
+      { hid: 'theme-color', name: 'theme-color', content: Constants.Theme },
 
       {
         hid: 'keywords',
         name: 'keywords',
         content:
-          'discord rpg, nett, kuroneko, discord, kurosama, kuro-sama, kuro neko, kuroneko sama, kuroneko-sama, discord bot, discord anime bot, anime bot, neko of the abyss',
+          'discord rpg, lala, nodejs, web designer, web developer, nett, kuroneko, discord, kurosama, kuro-sama, kuro neko, kuroneko sama, kuroneko-sama, discord bot, neko of the abyss',
       },
       { name: 'format-detection', content: 'telephone=no' },
     ],

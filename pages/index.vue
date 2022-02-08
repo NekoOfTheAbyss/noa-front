@@ -3,8 +3,7 @@
     <header>
       <div class="text-white">
         <!--  <h1>Kuro-sama</h1>-->
-        <p
-          class="
+        <p class="
             text-xl text-center
             italic
             font-semibold
@@ -13,12 +12,10 @@
             pt-8
             tracking-wide
             leading-9
-          "
-        >
+          ">
           Gaze at the abyss and the abyss gazes back at you...
         </p>
-        <p
-          class="
+        <p class="
             text-md text-center
             font-semibold
             px-8
@@ -26,12 +23,10 @@
             tracking-wide
             leading-9
             animate-pulse
-          "
-        >
-          This is a home page. There are four routes from here. Which shalt
+          ">
+          This is a home page. There are three routes from here. Which shalt
           thou choose?
         </p>
-        <br />
       </div>
     </header>
 
@@ -41,13 +36,19 @@
           title="NeTT"
           description="Braindead developer and creator of the Neko of the Abyss."
           link="/NeTT"
-          image="/NeTT/woke.webp"
+          image="/img.webp"
         />
         <MainHomeCard
           title="Software"
           description="Software related stuff I made!"
           link="/software/"
           image="/popface.webp"
+        />
+        <MainHomeCard
+          title="Kuro's Abyss"
+          description="Official Discord community for Neko Of The Abyss"
+          link="/discord/server"
+          image="/icon.png"
         />
       </div>
     </div>

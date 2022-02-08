@@ -15,7 +15,7 @@
             leading-9
           "
         >
-          Gaze at the abyss and the abyss gazes back at you...
+          Gaze for a while and even the abyss gets with you...
         </p>
         <p
           class="
@@ -31,7 +31,6 @@
           You see diverging paths. There are three routes from here. Which shalt
           thou choose?
         </p>
-        <br />
       </div>
     </header>
 
@@ -50,10 +49,10 @@
           image="/lala.png"
         />
         <MainHomeCard
-          title="Kuro's Abyss"
-          description="Official Discord community for Neko Of The Abyss"
-          link="/discord/server"
-          image="/icon.png"
+          title="Commissions"
+          description="Check out my commission prices!"
+          link="/software/commissions"
+          image="/NeTT/woke.webp"
         />
       </div>
     </div>
