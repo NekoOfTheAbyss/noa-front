@@ -24,8 +24,8 @@
             leading-9
             animate-pulse
           ">
-          This is a home page. There are three routes from here. Which shalt
-          thou choose?
+          This is a home page. There are three routes from here. Which shall
+          you choose?
         </p>
       </div>
     </header>

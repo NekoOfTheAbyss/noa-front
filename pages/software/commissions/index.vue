@@ -28,8 +28,8 @@
             animate-pulse
           "
         >
-          You see diverging paths again. There are four routes from here. Which shalt
-          thou choose?
+          You see diverging paths again. There are four routes from here. Which shall
+          you choose?
         </p>
         <br />
       </div>
