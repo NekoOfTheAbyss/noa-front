@@ -6,6 +6,11 @@
 
 <script>
 export default {
+  head() {
+    return {
+      title: "Redirecting..."
+    }
+  },
   mounted () {
          setTimeout(function(){
         window.location.href = 'https://api.nekooftheabyss.xyz' 

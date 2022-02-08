@@ -60,7 +60,7 @@ export default {
   auth: false,
   head() {
     return {
-      title: 'Home',
+      title: 'The Abyss',
     }
   },
 }

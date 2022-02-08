@@ -113,7 +113,7 @@
 export default {
   head() {
     return {
-      title: 'Discord',
+      title: 'Queen Of Chaos',
     }
   },
 }
