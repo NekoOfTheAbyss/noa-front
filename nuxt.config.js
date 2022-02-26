@@ -12,6 +12,7 @@ export default {
       lang: 'en',
     },
     meta: [
+      { name: "facebook-domain-verification", content: "j2xjqq6p76tdk4q4frrnswx69fom17"},
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
