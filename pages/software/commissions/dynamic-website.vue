@@ -57,7 +57,7 @@ export default {
         { name: 'Mobile Responsive', price: '0' },
         { name: 'Fast Loading', price: '0' },
         { name: 'Smooth Transitions and Animations', price: '0' },
-        { name: 'Editable Content (Markdown)', price: '+350 INR (5 USD)' },
+        { name: 'Editable Content (Markdown)', price: 'Negotiable' },
         { name: 'Web App (With SEO)', price: '+700 INR (10 USD)' },
         { name: 'Login System', price: 'Negotiable' },
       ],

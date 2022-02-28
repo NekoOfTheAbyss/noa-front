@@ -70,14 +70,14 @@ export default {
         />
         <MainHomeItem
           title="Lala"
-          description="A collection of random, mostly useless functions compiled into a single module and a Discord bot."
-          link="https://github.com/nekooftheabyss/lala"
+          description="A collection of random, mostly useless functions (yes, written by me) compiled into a single module."
+          link="/software/la-lala"
           image="/lala.png"
           contribution="Sole Developer, Owner"
         />
         <MainHomeItem
           title="President Anime Memes"
-          description="An anime website that releases anime popularity charts. A fun community with 30k+ members in Discord."
+          description="An anime website that releases anime popularity charts. A fun community with 50k+ members in Discord."
           link="https://presidentanimememes.com"
           image="/avatar/pam.webp"
           contribution="Website Developer"

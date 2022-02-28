@@ -67,6 +67,28 @@
               "
             >Check out the Discord bot, La Lala</NuxtLink>
           </div>
+          <div class="mx-auto w-full max-w-md p-4">
+            <a
+              href="https://lala.nekooftheabyss.xyz/"
+              class="
+                block
+                text-center
+                mx-auto
+                w-full
+                max-w-full
+                font-bold
+                text-white
+                px-4
+                py-3
+                transition
+                duration-300
+                ease-in-out
+                bg-zinc-800 bg-opacity-80
+                hover:bg-zinc-700
+                text-white
+              "
+            >Check out the web app, La Lala</a>
+          </div>
         </div>
       </div>
     </div>
