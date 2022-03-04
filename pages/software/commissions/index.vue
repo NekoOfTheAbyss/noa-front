@@ -85,7 +85,7 @@
             leading-9
           "
         >
-          Contact me on <a href = "https://fb.me/NekoOfTheAbyss" class = "text-nett-maid">Facebook</a> or on <NuxtLink to = "/discord/server" class = "text-nett-maid">Discord</NuxtLink>. You can also mail me via <a class = "text-nett-maid" href = "mailto:thenekooftheabyss@gmail.com">thenekooftheabyss@gmail.com</a>
+          Contact me on <a href = "https://fb.me/NekoOfTheAbyss" class = "text-nett-maid">Facebook</a> or on <NuxtLink to = "/discord/server" class = "text-nett-maid">Discord</NuxtLink>. You can also mail me via <a class = "text-nett-maid" href = "mailto:nett@nekooftheabyss.xyz">nett@nekooftheabyss.xyz</a>
         </p>
   </div>
 </template>

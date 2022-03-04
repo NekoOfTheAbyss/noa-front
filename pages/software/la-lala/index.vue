@@ -25,7 +25,7 @@
           </p>
           <div class="mx-auto w-full max-w-md p-4">
             <a
-              href="https://github.com/nekooftheabyss/lala"
+              href="https://github.com/retraigo/lala"
               class="
                 block
                 text-center
