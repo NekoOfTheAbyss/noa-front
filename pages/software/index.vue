@@ -49,6 +49,12 @@
           image="/lala.png"
         />
         <MainHomeCard
+          title="Kuko"
+          description="A random file api generator using express.js"
+          link="https://github.com/NekoOfTheAbyss/kuko"
+          image="/evildaro/ENLARGED_1.png"
+        />
+        <MainHomeCard
           title="Commissions"
           description="Check out my commission prices!"
           link="/software/commissions"
