@@ -51,7 +51,7 @@
         <MainHomeCard
           title="Kuko"
           description="A random file api generator using express.js"
-          link="https://github.com/NekoOfTheAbyss/kuko"
+          link="https://github.com/retraigo/kuko"
           image="/evildaro/ENLARGED_1.png"
         />
         <MainHomeCard
