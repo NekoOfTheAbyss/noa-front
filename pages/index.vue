@@ -2,7 +2,6 @@
   <main>
     <header>
       <div class="text-white">
-        <!--  <h1>Kuro-sama</h1>-->
         <p class="
             text-xl text-center
             italic
@@ -35,7 +34,7 @@
         <MainHomeCard
           title="NeTT"
           description="Braindead developer and creator of the Neko of the Abyss."
-          link="/NeTT"
+          link="https://nett.nekooftheabyss.xyz"
           image="/img.webp"
         />
         <MainHomeCard
